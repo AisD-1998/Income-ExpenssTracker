@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFE2A3-63A6-415F-8CD7-999DC490D3A9}|API\\API.csproj|c:\\users\\pc\\desktop\\projects\\2404_inextracker\\api\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AFE2A3-63A6-415F-8CD7-999DC490D3A9}|API\\API.csproj|solutionrelative:api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF00506-38B0-4BD4-BB20-113819957AED}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\desktop\\projects\\2404_inextracker\\api\\dataaccess\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF00506-38B0-4BD4-BB20-113819957AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFE2A3-63A6-415F-8CD7-999DC490D3A9}|API\\API.csproj|c:\\users\\pc\\desktop\\projects\\2404_inextracker\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3AFE2A3-63A6-415F-8CD7-999DC490D3A9}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF00506-38B0-4BD4-BB20-113819957AED}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\desktop\\projects\\2404_inextracker\\api\\dataaccess\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF00506-38B0-4BD4-BB20-113819957AED}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AFE2A3-63A6-415F-8CD7-999DC490D3A9}|API\\API.csproj|c:\\users\\pc\\desktop\\projects\\2404_inextracker\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AFE2A3-63A6-415F-8CD7-999DC490D3A9}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\DataAccess\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\DataAccess\\Entities\\Transaction.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:37:25.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "API\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:00:10.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:00:04.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\DataAccess\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\DataAccess\\Context.cs",
+              "RelativeToolTip": "DataAccess\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:59:48.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projects\\2404_InExTracker\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T15:59:09.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
